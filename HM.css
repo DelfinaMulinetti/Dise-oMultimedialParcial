@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body {
+    background-image: url(Css/segunda.png);
+    background-size: 80%;
+    background-position: 50%; }
+p {
+    font-family: 'Space Mono', monospace;;
+}
+
+a {
+    font-family: 'Space Mono', monospace;
+}

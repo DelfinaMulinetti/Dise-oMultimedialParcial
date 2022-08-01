@@ -1,0 +1,14 @@
+body {
+    background-image: url(./Css/inicio.png);
+    background-size: 80%;
+    background-position: 50%;
+
+}
+
+a {
+    font-family: 'Space Mono', monospace;
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+}
